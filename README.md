@@ -1,24 +1,27 @@
-# vue-cli-template
+# VueJS app
 
-## Project setup
-```
-npm install
-```
+## В этом приложении:
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+Vue-Router в связке Vue.js 3
 ```
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+      Динамические маршруты
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+     Установка своих тем поврех своего шаблона vue cli
+```
+
+```
+       Понимание того, как работают темы для фреймворков по типу Material UI
+```
+
+```
+     Критерии выбора библиотеки
+```
+
+```
+     Слайдер с персонажами
+```
